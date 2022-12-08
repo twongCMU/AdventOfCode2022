@@ -13,5 +13,6 @@ Day       Time   Rank  Score       Time   Rank  Score
 *5   00:41:41  8169      0   00:44:03  7144      0   //I got part 1 in about 17 minutes and part 2 in 2.5 minutes
  6   00:08:39  5148      0   00:10:15  4716      0
  7   00:48:37  4649      0   01:03:49  5143      0
+ 8   00:20:08  3187      0   00:31:50  2417      0
  
 ```
