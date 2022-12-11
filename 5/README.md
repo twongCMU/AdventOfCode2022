@@ -1,0 +1,1 @@
+I got part 1 in about 17 minutes and part 2 in 2.5 minutes but I didn't start on time
